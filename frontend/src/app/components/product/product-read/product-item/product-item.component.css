@@ -1,0 +1,15 @@
+a {
+    cursor: pointer;
+}
+
+a + a {
+    margin-left: 8px;
+}
+
+.orange {
+    color: #D9CD26;
+}
+
+.red {
+    color: #E35E6B
+}

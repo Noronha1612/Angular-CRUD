@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "name": "Caneta Preta Plus",
+      "price": 4.85,
+      "id": 2
+    },
+    {
+      "name": "Celular",
+      "price": 2013.99,
+      "id": 3
+    },
+    {
+      "name": "Teclado Incrível",
+      "price": 1239.99,
+      "id": 5
+    },
+    {
+      "name": "Produto Super Legal",
+      "price": 2.99,
+      "id": 7
+    }
+  ]
+}

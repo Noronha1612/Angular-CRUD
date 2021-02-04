@@ -1,0 +1,14 @@
+
+<tr>
+    <span>{{product.id}}</span>
+    <span>{{product.name}}</span>
+    <span>{{product.price | currencyFormat}}</span>
+    <span>
+        <a (click)="navigateToUpdate()">
+            <mat-icon class="orange">create</mat-icon>
+        </a>
+        <a (click)="navigateToDelete()">
+            <mat-icon class="red">delete</mat-icon>
+        </a>
+    </span>
+</tr>
